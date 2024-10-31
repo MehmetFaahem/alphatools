@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+input {
+  outline: none;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
